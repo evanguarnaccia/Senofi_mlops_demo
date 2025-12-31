@@ -39,14 +39,6 @@
       "objectType": "DATASET"
     },
     {
-      "objectId": "earnings_by_education_preparedsx",
-      "objectType": "DATASET"
-    },
-    {
-      "objectId": "compute_earnings_by_education_preparedsx",
-      "objectType": "RECIPE"
-    },
-    {
       "objectId": "earnings_by_education_prepared",
       "objectType": "DATASET"
     },
@@ -55,19 +47,11 @@
       "objectType": "RECIPE"
     },
     {
-      "objectId": "earnings_by_education_preparedf",
+      "objectId": "earnings_by_education_preparedfd",
       "objectType": "DATASET"
     },
     {
-      "objectId": "compute_earnings_by_education_preparedf",
-      "objectType": "RECIPE"
-    },
-    {
-      "objectId": "earnings_by_education_preparedfee",
-      "objectType": "DATASET"
-    },
-    {
-      "objectId": "compute_earnings_by_education_preparedfee",
+      "objectId": "compute_earnings_by_education_preparedfd",
       "objectType": "RECIPE"
     }
   ],
