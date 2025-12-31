@@ -45,10 +45,6 @@
     {
       "objectId": "earnings_by_education_prepared1",
       "objectType": "DATASET"
-    },
-    {
-      "objectId": "earnings_by_education_preparedd",
-      "objectType": "DATASET"
     }
   ],
   "shared": [],
