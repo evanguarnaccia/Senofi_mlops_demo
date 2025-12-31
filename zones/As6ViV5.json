@@ -1,0 +1,49 @@
+{
+  "name": "Data Preparation",
+  "color": "#D1D8DA",
+  "items": [
+    {
+      "objectId": "job_postings",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "earnings_by_education",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_job_postings_prepared",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "job_postings_prepared",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "recipe_from_notebook_admins_Python_notebook_on_job_postings_prepared",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "job_postings_python",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_job_postings_prepared_joined",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "job_postings_prepared_joined",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "unmatched",
+      "objectType": "DATASET"
+    }
+  ],
+  "shared": [],
+  "position": {},
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
