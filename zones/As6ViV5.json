@@ -47,10 +47,6 @@
       "objectType": "RECIPE"
     },
     {
-      "objectId": "earnings_by_education_preparedfed",
-      "objectType": "DATASET"
-    },
-    {
       "objectId": "earnings_by_education_prepareddew",
       "objectType": "DATASET"
     },
